@@ -1,2 +1,2 @@
 # JavaFX
-Programma in Java che utilizza la grafica di JavaFX per mostrare i risultati di determinate query all'interno del database scolastico
+Java program that uses JavaFX graphics to display the results of certain queries within the school database
